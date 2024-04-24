@@ -1,6 +1,5 @@
 ---
 name: AVEHIL Driving Simulation
-title: undefined
 slug: avehil-driving-simulator
 description: AVEHIL è il simulatore di guida professionale dedicato alla formazione dei piloti durante la stagione agonistica e nei cruciali passaggi di categoria
 location: {"address":"Autodromo Nazionale Monza, Viale di Vedano, 5","city":"Monza MB","cap":"20900"}
