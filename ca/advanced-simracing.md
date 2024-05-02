@@ -3,7 +3,7 @@ name: "Advanced SimRacing"
 slug: "advanced-simracing"
 location:
   address: "10301 Bd Ray-Lawson, Anjou"
-  postal_code: "H1J 1L6"
+  cap: "H1J 1L6"
   city: "Anjou"
 coordinates:
   lat: 45.6217001

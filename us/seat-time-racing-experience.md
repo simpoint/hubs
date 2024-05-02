@@ -3,7 +3,7 @@ name: "Seat Time Racing Experience"
 slug: "seat-time-racing-experience"
 location:
   address: "10222 Newell Hickory Grove Rd, Charlotte, NC"
-  postal_code: 28213
+  cap: 28213
   city: "Charlotte"
 coordinates:
   lat: 35.2741847

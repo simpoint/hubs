@@ -3,7 +3,7 @@ name: "RaceSim1"
 slug: "racesim1"
 location:
   address: "693 Bloor St W, Toronto"
-  postal_code: "M6G 1L5"
+  cap: "M6G 1L5"
   city: "Toronto"
 coordinates:
   lat: 43.6635832

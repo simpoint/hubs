@@ -3,7 +3,7 @@ name: "Kivi Racing Factory"
 slug: "kivi-racing-factory"
 location:
   address: "Górczewska 179 Warszawa"
-  postal_code: "01-459"
+  cap: "01-459"
   city: "Warsaw"
 coordinates:
   lat: 52.2380367

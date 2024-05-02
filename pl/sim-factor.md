@@ -3,7 +3,7 @@ name: "SIM FACTOR SP"
 slug: "sim-factor-sp"
 location:
   address: "Wenecka 12 Warszawa"
-  postal_code: "03-244"
+  cap: "03-244"
   city: "Warsaw"
 coordinates:
   lat: 52.2986084

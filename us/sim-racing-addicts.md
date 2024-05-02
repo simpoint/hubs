@@ -3,7 +3,7 @@ name: "SIM RACING ADDICTS"
 slug: "sim-racing-addicts"
 location:
   address: "5202 S Miller Pl, Chandler, AZ"
-  postal_code: 85249
+  cap: 85249
   city: "Chandler"
 coordinates:
   lat: 33.2309127

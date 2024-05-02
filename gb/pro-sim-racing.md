@@ -3,7 +3,7 @@ name: "Pro Sim Racing"
 slug: "pro-sim-racing"
 location:
   address: "6 Ridgeway"
-  postal_code: "RH17 7GB"
+  cap: "RH17 7GB"
   city: "Haywards Heath"
 coordinates:
   lat: 50.9898788

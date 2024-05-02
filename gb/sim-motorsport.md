@@ -3,7 +3,7 @@ name: "SIM Motorsport"
 slug: "sim-motorsport"
 location:
   address: "Stewart Suites, Unit 2-3 Braham"
-  postal_code: "DA3 8NG"
+  cap: "DA3 8NG"
   city: "Longfield"
 coordinates:
   lat: 51.3609321

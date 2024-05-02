@@ -3,7 +3,7 @@ name: "LMS Liga Mexicana de Simracing"
 slug: "lms-liga-mexicana-de-simracing"
 location:
   address: ""
-  postal_code: ""
+  cap: ""
   city: null
 coordinates:
   lat: 23.5541269

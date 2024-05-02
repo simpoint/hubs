@@ -3,7 +3,7 @@ name: "The Race Cave"
 slug: "the-race-cave"
 location:
   address: "Pontypridd"
-  postal_code: "CF37 5UR"
+  cap: "CF37 5UR"
   city: "Pontypridd"
 coordinates:
   lat: 51.5687201

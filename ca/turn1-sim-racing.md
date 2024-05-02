@@ -3,7 +3,7 @@ name: "Turn1 Sim Racing"
 slug: "turn1-sim-racing"
 location:
   address: "33 Quebec St, Guelph"
-  postal_code: "N1H 2T1"
+  cap: "N1H 2T1"
   city: "Guelph"
 coordinates:
   lat: 43.5455022

@@ -3,7 +3,7 @@ name: "Velvet Art"
 slug: "velvet-art"
 location:
   address: "Białostocka 42 Warszawa"
-  postal_code: "03-741"
+  cap: "03-741"
   city: "Warsaw"
 coordinates:
   lat: 52.2572859

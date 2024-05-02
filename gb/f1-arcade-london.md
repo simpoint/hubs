@@ -3,7 +3,7 @@ name: "F1® Arcade London"
 slug: "f1-arcade-london"
 location:
   address: "1 New Change"
-  postal_code: "EC4M 9AF"
+  cap: "EC4M 9AF"
   city: "London"
 coordinates:
   lat: 51.5138927

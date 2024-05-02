@@ -3,7 +3,7 @@ name: "Maximum Attack Simulation"
 slug: "maximum-attack-simulation"
 location:
   address: ""
-  postal_code: ""
+  cap: ""
   city: null
 coordinates:
   lat: 39.8515595

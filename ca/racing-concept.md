@@ -3,7 +3,7 @@ name: "Racing Concept Inc."
 slug: "racing-concept-inc."
 location:
   address: "2899 Steeles Ave W #25, North York, ON M3J 3A1"
-  postal_code: "M3J 3A1"
+  cap: "M3J 3A1"
   city: "North York"
 coordinates:
   lat: 43.7813169

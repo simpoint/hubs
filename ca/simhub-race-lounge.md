@@ -3,7 +3,7 @@ name: "SimHub Race Lounge"
 slug: "simhub-race-lounge"
 location:
   address: "101A Freshway Dr Unit 3, Vaughan"
-  postal_code: "L4K 1R9"
+  cap: "L4K 1R9"
   city: "Vaughan"
 coordinates:
   lat: 43.7919925

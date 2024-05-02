@@ -3,7 +3,7 @@ name: "Pro Sim"
 slug: "pro-sim"
 location:
   address: "Hale Oak Rd, Weald"
-  postal_code: "TN14 6NG"
+  cap: "TN14 6NG"
   city: "Sevenoaks"
 coordinates:
   lat: 51.22947

@@ -3,7 +3,7 @@ name: "Racing Sims North East"
 slug: "racing-sims-north-east"
 location:
   address: "Wansbeck Workspace, Rotary Pkwy"
-  postal_code: "NE63 8QW"
+  cap: "NE63 8QW"
   city: "Ashington"
 coordinates:
   lat: 55.1848838

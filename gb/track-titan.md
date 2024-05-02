@@ -3,7 +3,7 @@ name: "Track Titan"
 slug: "track-titan"
 location:
   address: "8 Kingsland Rd"
-  postal_code: "E2 8DA"
+  cap: "E2 8DA"
   city: "London"
 coordinates:
   lat: 51.5274831

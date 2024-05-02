@@ -3,7 +3,7 @@ name: "SIM SCHOOL Stevenage"
 slug: "sim-school-stevenage"
 location:
   address: "Unit 2, Bowmans trading Estate, Bessemer Dr"
-  postal_code: "SG1 2DL"
+  cap: "SG1 2DL"
   city: "Stevenage"
 coordinates:
   lat: 51.901225

@@ -3,7 +3,7 @@ name: "TORONTO RACING SIMULATORS"
 slug: "toronto-racing-simulators"
 location:
   address: "5150 Dixie Rd Unit 9A, Mississauga"
-  postal_code: "L4W 0C2"
+  cap: "L4W 0C2"
   city: "Mississauga"
 coordinates:
   lat: 43.637728

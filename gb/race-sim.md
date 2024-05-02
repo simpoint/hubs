@@ -3,7 +3,7 @@ name: "Race Sim"
 slug: "race-sim"
 location:
   address: "120 Woodgrange Rd"
-  postal_code: "E7 0EW"
+  cap: "E7 0EW"
   city: "London"
 coordinates:
   lat: 51.5515428

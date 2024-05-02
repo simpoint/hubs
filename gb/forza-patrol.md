@@ -3,7 +3,7 @@ name: "Forza Patrol"
 slug: "forza-patrol"
 location:
   address: "Buckingham Palace Rd"
-  postal_code: "SW1A 1AA"
+  cap: "SW1A 1AA"
   city: "London"
 coordinates:
   lat: 51.494868

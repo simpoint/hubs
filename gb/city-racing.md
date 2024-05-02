@@ -3,7 +3,7 @@ name: "City Racing"
 slug: "city-racing"
 location:
   address: "22 Brook St"
-  postal_code: "W1K 7PZ"
+  cap: "W1K 7PZ"
   city: "London"
 coordinates:
   lat: 51.5132539

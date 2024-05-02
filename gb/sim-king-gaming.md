@@ -3,7 +3,7 @@ name: "Sim King Gaming"
 slug: "sim-king-gaming"
 location:
   address: "18 King St"
-  postal_code: "DL3 6JH"
+  cap: "DL3 6JH"
   city: "Darlington"
 coordinates:
   lat: 54.5269758

@@ -3,7 +3,7 @@ name: "Sim Doctor"
 slug: "sim-doctor"
 location:
   address: "20-22 Wenlock Rd"
-  postal_code: "N1 7GU"
+  cap: "N1 7GU"
   city: "London"
 coordinates:
   lat: 51.5305929

@@ -3,7 +3,7 @@ name: "Drive-Position"
 slug: "drive-position"
 location:
   address: "Graniczna 15 Sękocin Stary"
-  postal_code: "05-090"
+  cap: "05-090"
   city: "Sękocin Stary"
 coordinates:
   lat: 52.1238702

@@ -3,7 +3,7 @@ name: "Upshift"
 slug: "upshift"
 location:
   address: "Metropolitan House, Swalwell"
-  postal_code: "NE16 3AS"
+  cap: "NE16 3AS"
   city: "Gateshead"
 coordinates:
   lat: 54.9577917

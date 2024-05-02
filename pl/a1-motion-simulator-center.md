@@ -3,7 +3,7 @@ name: "A1 Motion Simulator Center"
 slug: "a1-motion-simulator-center"
 location:
   address: "Annopol 24B Warszawa"
-  postal_code: "03-236"
+  cap: "03-236"
   city: "Warsaw"
 coordinates:
   lat: 52.315117

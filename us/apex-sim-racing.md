@@ -3,7 +3,7 @@ name: "Apex Sim Racing"
 slug: "apex-sim-racing"
 location:
   address: "1091 Bristol Rd STE 2, Mountainside, NJ"
-  postal_code: "07092"
+  cap: "07092"
   city: "Mountainside"
 coordinates:
   lat: 40.683957

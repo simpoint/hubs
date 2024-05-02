@@ -3,7 +3,7 @@ name: "Sit and Race sim racing Latinoamérica"
 slug: "sit-and-race-sim-racing-latinoamerica"
 location:
   address: ""
-  postal_code: ""
+  cap: ""
   city: null
 coordinates:
   lat: 44.230269

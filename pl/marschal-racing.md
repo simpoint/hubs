@@ -3,7 +3,7 @@ name: "Marschal Racing"
 slug: "marschal-racing"
 location:
   address: "Emaliowa 15 Warszawa"
-  postal_code: "02-295"
+  cap: "02-295"
   city: "Warsaw"
 coordinates:
   lat: 52.1673129

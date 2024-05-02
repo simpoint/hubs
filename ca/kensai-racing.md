@@ -3,7 +3,7 @@ name: "Kensai Racing"
 slug: "kensai-racing"
 location:
   address: "82 Green Ln #1, Thornhill"
-  postal_code: "L3T 6K9"
+  cap: "L3T 6K9"
   city: "Thornhill"
 coordinates:
   lat: 43.8231556

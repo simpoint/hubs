@@ -3,7 +3,7 @@ name: "6 Sigma Sim Racing"
 slug: "6-sigma-sim-racing"
 location:
   address: "300 Steelcase Rd W Unit 31, Markham"
-  postal_code: "L3R 2W2"
+  cap: "L3R 2W2"
   city: "Markham"
 coordinates:
   lat: 43.8228255

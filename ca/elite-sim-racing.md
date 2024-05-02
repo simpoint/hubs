@@ -3,7 +3,7 @@ name: "Elite Sim Racing"
 slug: "elite-sim-racing"
 location:
   address: "4289 Rue Saint-Félix, Québec"
-  postal_code: "G1Y 1X5"
+  cap: "G1Y 1X5"
   city: "Québec City"
 coordinates:
   lat: 46.7473671

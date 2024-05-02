@@ -3,7 +3,7 @@ name: "RP-RACING"
 slug: "rp-racing"
 location:
   address: "Lower Plaish"
-  postal_code: "TA9 4NU"
+  cap: "TA9 4NU"
   city: "Highbridge"
 coordinates:
   lat: 51.2419565

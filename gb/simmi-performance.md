@@ -3,7 +3,7 @@ name: "Simmi Performance"
 slug: "simmi-performance"
 location:
   address: "Bridge St, Middleton-in-Teesdale"
-  postal_code: "DL12 0QB"
+  cap: "DL12 0QB"
   city: "Barnard Castle"
 coordinates:
   lat: 54.6234516

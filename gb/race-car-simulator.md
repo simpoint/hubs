@@ -3,7 +3,7 @@ name: "Race Car Simulator"
 slug: "race-car-simulator"
 location:
   address: "Vantage Simulations Little Gransden Airfield, Fuller's Hill"
-  postal_code: "SG19 3BP"
+  cap: "SG19 3BP"
   city: "Sandy"
 coordinates:
   lat: 52.1638966

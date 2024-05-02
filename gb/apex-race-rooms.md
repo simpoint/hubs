@@ -3,7 +3,7 @@ name: "Apex Race Rooms"
 slug: "apex-race-rooms"
 location:
   address: "Unit 7C, Llantrisant Business Park, Ynysmaerdy"
-  postal_code: "CF72 8LF"
+  cap: "CF72 8LF"
   city: "Pontyclun"
 coordinates:
   lat: 51.5535605

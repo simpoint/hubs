@@ -3,7 +3,7 @@ name: "Sim Labs Essex"
 slug: "sim-labs-essex"
 location:
   address: "Saxon Way, Broomfield"
-  postal_code: "CM1 7AD"
+  cap: "CM1 7AD"
   city: "Chelmsford"
 coordinates:
   lat: 51.7581131

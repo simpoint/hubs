@@ -3,7 +3,7 @@ name: "Slipstream Tuning"
 slug: "slipstream-tuning"
 location:
   address: "Unit 1 Block 5, Vestry Industrial Estate, Otford Rd"
-  postal_code: "TN14 5EL"
+  cap: "TN14 5EL"
   city: "Sevenoaks"
 coordinates:
   lat: 51.2979405

@@ -3,7 +3,7 @@ name: "Simulation 1 Systems"
 slug: "simulation-1-systems"
 location:
   address: "170 Esna Park Dr #10, Markham"
-  postal_code: "L3R 1E3"
+  cap: "L3R 1E3"
   city: "Markham"
 coordinates:
   lat: 43.8254476

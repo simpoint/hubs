@@ -3,7 +3,7 @@ name: "Reboot Racing"
 slug: "reboot-racing"
 location:
   address: "8882 170 St NW #1375, Edmonton"
-  postal_code: "T5T 4M2"
+  cap: "T5T 4M2"
   city: "Edmonton"
 coordinates:
   lat: 53.5220172

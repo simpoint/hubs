@@ -3,7 +3,7 @@ name: "Simrace"
 slug: "simrace"
 location:
   address: "2700 Rue Jean-Perrin #170, Québec City, Quebec"
-  postal_code: "G2C 1S9"
+  cap: "G2C 1S9"
   city: "Québec City"
 coordinates:
   lat: 46.8217954

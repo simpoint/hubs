@@ -3,7 +3,7 @@ name: "SimRace1"
 slug: "simrace1"
 location:
   address: "30 31 High St"
-  postal_code: "SA1 1LG"
+  cap: "SA1 1LG"
   city: "Swansea"
 coordinates:
   lat: 51.6234234

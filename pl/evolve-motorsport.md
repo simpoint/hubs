@@ -3,7 +3,7 @@ name: "Evolve Motorsport"
 slug: "evolve-motorsport"
 location:
   address: "Wąbrzeska 4 Warszawa"
-  postal_code: "04-673"
+  cap: "04-673"
   city: "Warsaw"
 coordinates:
   lat: 52.2146196

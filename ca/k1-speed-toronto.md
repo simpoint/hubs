@@ -3,7 +3,7 @@ name: "K1 Speed Toronto"
 slug: "k1-speed-toronto"
 location:
   address: "75 Carl Hall Rd Unit #9, Toronto"
-  postal_code: "M3K 2B9"
+  cap: "M3K 2B9"
   city: "Toronto"
 coordinates:
   lat: 43.7454517

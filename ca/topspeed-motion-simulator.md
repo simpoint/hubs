@@ -3,7 +3,7 @@ name: "Topspeed motion simulator"
 slug: "topspeed-motion-simulator"
 location:
   address: "1105 Rue Ernest-Harnois, Joliette"
-  postal_code: "J6E 0L7"
+  cap: "J6E 0L7"
   city: "Joliette"
 coordinates:
   lat: 46.0169296

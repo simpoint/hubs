@@ -3,7 +3,7 @@ name: "Braig"
 slug: "braig"
 location:
   address: "72 Shelton St"
-  postal_code: "WC2H 9JQ"
+  cap: "WC2H 9JQ"
   city: "London"
 coordinates:
   lat: 51.5145985

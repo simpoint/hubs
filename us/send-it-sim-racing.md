@@ -3,7 +3,7 @@ name: "Send It Sim Racing"
 slug: "send-it-sim-racing"
 location:
   address: "55 Crosspoint Pkwy Suite 136, Getzville, NY"
-  postal_code: 14068
+  cap: 14068
   city: "Getzville"
 coordinates:
   lat: 43.0356333

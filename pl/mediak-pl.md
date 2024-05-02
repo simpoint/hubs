@@ -3,7 +3,7 @@ name: "Mediak.pl"
 slug: "mediak-pl"
 location:
   address: "Górczewska 257A/1 Warszawa"
-  postal_code: "01-459"
+  cap: "01-459"
   city: "Warsaw"
 coordinates:
   lat: 52.2394294
