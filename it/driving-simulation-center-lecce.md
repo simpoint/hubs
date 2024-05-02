@@ -7,5 +7,5 @@ website: https://www.drivingsimulationcenter.it/
 maps: https://maps.app.goo.gl/xBiUyb2aiaxiy3LY7
 links: {"facebook":"","instagram":""}
 coordinates: {"lat":40.350179555044704,"lng":18.177321430510972}
-tags: ["lecce"]
+tags: ["lecce","bari"]
 ---
