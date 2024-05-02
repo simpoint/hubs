@@ -1,5 +1,5 @@
 ---
-name: "TORONTO RACING SIMULATORS"
+name: "Toronto Racing Simulators"
 slug: "toronto-racing-simulators"
 location:
   address: "5150 Dixie Rd Unit 9A, Mississauga"
