@@ -7,7 +7,7 @@ location:
   city: null
 coordinates:
   lat: 23.5541269
-  lon: -102.6205
+  lng: -102.6205
 website: "https://ligamexicanadesimracing.com/"
 maps: "https://www.google.com/maps/place/LMS+Liga+Mexicana+de+Simracing/@23.5541269,-102.62049999999999,14z/data=!4m8!1m2!2m1!1sLMS+Liga+Mexicana+de+Simracing!3m4!1s0x2f31a74ac13d2f65:0x30b2b55ed0e8935e!8m2!3d23.5541269!4d-102.62049999999999"
 links:

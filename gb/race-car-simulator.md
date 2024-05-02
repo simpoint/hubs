@@ -7,7 +7,7 @@ location:
   city: "Sandy"
 coordinates:
   lat: 52.1638966
-  lon: -0.1496307
+  lng: -0.1496307
 website: ""
 maps: "https://www.google.com/maps/place/Race+Car+Simulator/@52.1638966,-0.1496307,14z/data=!4m8!1m2!2m1!1sRace+Car+Simulator!3m4!1s0x4877ddbb641f9fe9:0xef0473cb6ae915df!8m2!3d52.1638966!4d-0.1496307"
 links: {}
