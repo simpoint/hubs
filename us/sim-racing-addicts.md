@@ -1,5 +1,5 @@
 ---
-name: "SIM RACING ADDICTS"
+name: "Sim Racing Addicts"
 slug: "sim-racing-addicts"
 location:
   address: "5202 S Miller Pl, Chandler, AZ"
