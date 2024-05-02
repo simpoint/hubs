@@ -1,6 +1,6 @@
 ---
-name: "Racing Concept Inc."
-slug: "racing-concept-inc."
+name: "Racing Concept"
+slug: "racing-concept"
 location:
   address: "2899 Steeles Ave W #25, North York, ON M3J 3A1"
   cap: "M3J 3A1"
