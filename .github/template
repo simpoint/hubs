@@ -1,0 +1,10 @@
+---
+name: Sim Point driving lounge
+slug: sim-point-driving-lounge
+location: { "address": "Pfingstweidstrasse 96", "city": "Zurich", "cap": "8005" }
+website: https://driving.lounge
+maps: https://maps.app.goo.gl/doPhPUJ1RmJeufQF8
+links: { "facebook": "", "instagram": "" }
+coordinates: { "lat": 47.39100115370411, "lng": 8.512205070271248 }
+tags: ["zurich"]
+---
